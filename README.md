@@ -6,7 +6,8 @@ Pre-req:
 
 
 To run:
-`python3 gitlab-searcher.py -s [base_gitlab_url] -t [personal_access_token]`
+`python3 gitlab-searcher.py -s [base_gitlab_url_for_your_org] -t [personal_access_token]`
+
 Example: 
 `python3 gitlab-searcher.py -s https://api.gitlab.com -t reallycooltoken`
 
